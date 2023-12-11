@@ -1,0 +1,47 @@
+.img-container{
+    display: flex;
+    gap:24px;
+    padding: 60px 173px;
+  }
+  .IMAGES{
+    width: 259px;
+    height:274px;
+  }
+  .img{
+    max-height: 274px;
+    position:relative;
+  }
+  .img p:nth-child(2){
+    max-width:200px;
+    position: absolute;
+    bottom:16px;
+    left:14px;
+    color:#fff;
+    background-color: transparent;
+  }
+  .img p:nth-child(3){
+    position: absolute;
+    bottom: -2px;
+    left:14px;
+    color:#fff;
+    background-color: transparent;
+  }
+  
+  .img4 span{
+    position: absolute;
+    right:0;
+    width:150px;
+    height:274px;
+    background-color: white;
+  }
+  .img4 span img{
+    position: absolute;
+    top:50%;
+    left:30%;
+    transform: translate(-50%,-50%);
+    width: 24px;
+    height: 24px;
+    padding: 8px;
+    background-color: #ccc;
+    border-radius: 50%;
+  }

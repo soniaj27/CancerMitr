@@ -1,0 +1,121 @@
+.rating{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.rating-1{
+margin: 40px;
+display: flex;
+width: 16.6875rem;
+padding: 0.75rem 0.75rem 1.25rem 0.75rem;
+flex-direction: column;
+align-items: flex-start;
+gap: 0.625rem;
+border-radius: 0.375rem;
+background: rgba(219, 225, 229, 0.30);
+}
+.rate1{
+    color:  #252525;
+font-size: 1.125rem;
+font-weight: 500;
+}
+ .rating-2{
+    width: 60%;
+height: 7.34rem;
+background: rgba(219, 225, 229, 0.30);
+padding: 14px;
+ }
+ .rate2{
+    color:  #252525;
+    font-size: 1.125rem;
+    font-weight: 500;
+ }
+ .rate3{
+    color: #C6C4C4;
+  font-size: 0.875rem;
+ font-style: italic;
+ font-weight: 400;
+ }
+.btn67{
+padding: 0.625rem 2rem;
+gap: 0.625rem;
+float: right;
+border-radius: 0.375rem;
+background:  #EA5A1A;
+border: none;
+    color:  #FFF;
+font-size: 1rem;
+font-weight: 600;
+}
+.customer-4{
+    display: flex;
+    gap: 10px;
+}
+
+.customer-rating1{
+    color:  #252525;
+font-family: Manrope;
+font-size: 1.125rem;
+line-height: normal;
+margin: 20px;
+border-radius: 0.625rem;
+background: rgba(219, 225, 229, 0.30);
+}
+.rate6{
+font-size: 1.25rem;
+font-weight: 600;
+}
+.customer-review{
+    display: flex;
+    flex-direction: column;
+    width: 80rem;
+    margin-top: 20px;
+    
+}
+.customer-rating2{
+    display: flex;
+    flex-direction: column;
+}
+.customer-rating3{
+    display: flex;
+    
+
+}
+.Rating{
+    color: #252525;
+font-size: 0.875rem;
+font-weight: 400;
+}
+
+.para56{
+    color:  #454545;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+
+
+p{
+font-size: 1.25rem;
+padding: 4px;
+}
+.top1{
+    color:  #252525;
+font-size: 0.875rem;
+font-weight: 400;
+border-radius: 0.375rem;
+background: rgba(219, 225, 229, 0.60);
+width: 10%;
+margin: 5px;
+}
+.customer-rating4{
+    display: flex;
+    gap: 10px;
+}
+.customer-rating5{
+    display: flex;
+    gap: 10px;
+
+}
+

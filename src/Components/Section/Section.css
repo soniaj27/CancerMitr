@@ -1,0 +1,41 @@
+
+
+.main-sec {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 29px 80px;
+  background-color: #E5EDEE;
+}
+ .main-sec4{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 20px;
+  }
+
+.icons6 {
+  width: 2.625rem;
+  height: 2.625rem;
+}
+
+.para7 {
+  color: #ea5a1a;
+  font-size: 1.3rem;
+  font-weight: 600;
+  padding: 4px;
+}
+.para8{
+    color:  #454545;
+  font-size: 1rem;
+  font-weight: 400;
+}
+.btn-8{
+padding: 0.75rem 3.375rem;
+gap: 0.625rem;
+border-radius: 6px;
+background-color: #EA5A1A;
+color:white;
+border: none;
+}

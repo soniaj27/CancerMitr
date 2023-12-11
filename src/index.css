@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root{
+  --heading: #2D255E;
+ --highlight-colour: #0D0C22;
+ --para:#454545;
+ --btn:#EA5A1A;
+}

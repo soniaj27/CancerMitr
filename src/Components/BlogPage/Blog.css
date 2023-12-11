@@ -1,0 +1,31 @@
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 14px;
+}
+.head-1{
+    max-width: 438px;
+}
+.head span{
+ color: #EA5A1A;
+}
+.dropdown-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 31px;
+    flex-direction: column; 
+    gap: 42px;
+    width: 666px;
+ 
+}
+.dropdown-1 .item{
+    width: 666px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+} 

@@ -1,0 +1,50 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color:white;
+    color: #454545;
+
+
+  }
+  
+  
+  .nav-links a {
+    margin-right: 1.3rem;
+    text-decoration: none;
+    color: #454545;
+
+  }
+  
+  .right-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 23px;
+  }
+  .right-side-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    padding: 6px 16px;
+    gap:10px;
+   background: #FEE799;
+  }
+  .bell-icon,
+  .user-profile {
+    margin-left: 1rem;
+    cursor: pointer;
+  }
+  .icons{
+    display: flex;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+     justify-content: center;
+     align-items: center;
+     flex-shrink: 0;
+    border-radius: 16px;
+    background-color:  #E5EDEE;    
+  }
